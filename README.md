@@ -1,0 +1,2 @@
+# ResultInquiry
+一个通过Android网络抓取json数据做的一款成绩查询系统
